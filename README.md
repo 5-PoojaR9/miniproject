@@ -1,0 +1,2 @@
+# miniproject
+Clone Amazon Website
